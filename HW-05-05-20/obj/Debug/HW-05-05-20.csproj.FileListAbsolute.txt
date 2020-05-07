@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2013\Projects\HW-05-05-20\HW-05-05-20\bin\Debug\HW-05-05-20.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\HW-05-05-20\HW-05-05-20\bin\Debug\HW-05-05-20.exe
+c:\users\hp\documents\visual studio 2013\Projects\HW-05-05-20\HW-05-05-20\bin\Debug\HW-05-05-20.pdb
+c:\users\hp\documents\visual studio 2013\Projects\HW-05-05-20\HW-05-05-20\obj\Debug\HW-05-05-20.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\HW-05-05-20\HW-05-05-20\obj\Debug\HW-05-05-20.exe
+c:\users\hp\documents\visual studio 2013\Projects\HW-05-05-20\HW-05-05-20\obj\Debug\HW-05-05-20.pdb
+C:\projects\HW-05-05-20\HW-05-05-20\bin\Debug\HW-05-05-20.exe.config
+C:\projects\HW-05-05-20\HW-05-05-20\obj\Debug\HW-05-05-20.exe
+C:\projects\HW-05-05-20\HW-05-05-20\obj\Debug\HW-05-05-20.pdb
+C:\projects\HW-05-05-20\HW-05-05-20\bin\Debug\HW-05-05-20.exe
+C:\projects\HW-05-05-20\HW-05-05-20\bin\Debug\HW-05-05-20.pdb
+C:\projects\HW-05-05-20\HW-05-05-20\obj\Debug\HW-05-05-20.csprojResolveAssemblyReference.cache
